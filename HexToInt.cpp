@@ -8,17 +8,10 @@
 using namespace std;
 int main(){
    //========================== VARIABLES ===========================//  
-    //I wanted to split the stacks for easier readablity
-    const int ascii = 48; 
     string input; 
     string num; 
-    string binary; 
     string hex; 
-    int rightInput = 2;
-    int choi=0;
-    int current=0; 
-    int stackSize=0; 
-    int mod16; 
+    int stackSize=0;
     int total; 
     int expo;
     int hexlen;
