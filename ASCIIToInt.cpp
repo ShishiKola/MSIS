@@ -18,7 +18,7 @@ int main(){
     for(int i = 0; i < input.length(); i++){
         int c = input[i];
         numlen = num.length(); 
-        cout << c; 
+        cout << c << " "; 
         }
         total = 0; 
      return 0;
